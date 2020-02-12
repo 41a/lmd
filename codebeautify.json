@@ -1,0 +1,1945 @@
+﻿{
+	"chapter": {
+		"catchline": "Arrest, by Whom, and How Made",
+		"section": [
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "1980GS",
+							"__text": "15"
+						},
+						"__text": "Enacted by Chapter \n, 1980 General Session"
+					},
+					"modyear": "1980"
+				},
+				"catchline": "\"Arrest\" defined -- Restraint allowed.",
+				"tab": "",
+				"_number": "77-7-1",
+				"__text": "An arrest is an actual restraint of the person arrested or submission to custody. The person shall not be subjected to any more restraint than is necessary for his arrest and detention."
+			},
+			{
+				"histories": {
+					"history": [
+						{
+							"modchap": {
+								"_sess": "2011GS",
+								"__text": "18"
+							},
+							"__text": "Amended by Chapter \n, 2011 General Session"
+						},
+						{
+							"modchap": {
+								"_sess": "2011GS",
+								"__text": "21"
+							},
+							"__text": "Amended by Chapter \n, 2011 General Session"
+						}
+					],
+					"modyear": [
+						"2011",
+						"2011"
+					]
+				},
+				"catchline": "Arrest by peace officers.",
+				"tab": "",
+				"subsection": [
+					{
+						"subsection": [
+							{
+								"_number": "77-7-2(1)(a)",
+								"__text": "for any public offense committed or attempted in the presence of any peace officer; and"
+							},
+							{
+								"xref": {
+									"_depth": "4",
+									"_refid": "C77-7-S2_1800010118000101",
+									"_refnumber": "77-7-2(1)",
+									"_start": "0",
+									"__text": "(1)"
+								},
+								"_number": "77-7-2(1)(b)",
+								"__text": "as used in this Subsection \n, \"presence\" includes all of the physical senses or any device that enhances the acuity, sensitivity, or range of any physical sense, or records the observations of any of the physical senses;"
+							}
+						],
+						"_number": "77-7-2(1)"
+					},
+					{
+						"_number": "77-7-2(2)",
+						"__text": "when the peace officer has reasonable cause to believe a felony or a class A misdemeanor has been committed and has reasonable cause to believe that the person arrested has committed it;"
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-2(3)(a)",
+								"__text": "flee or conceal himself to avoid arrest;"
+							},
+							{
+								"_number": "77-7-2(3)(b)",
+								"__text": "destroy or conceal evidence of the commission of the offense; or"
+							},
+							{
+								"_number": "77-7-2(3)(c)",
+								"__text": "injure another person or damage property belonging to another person;"
+							}
+						],
+						"_number": "77-7-2(3)",
+						"__text": "when the peace officer has reasonable cause to believe the person has committed a public offense, and there is reasonable cause for believing the person may:"
+					},
+					{
+						"xref": {
+							"_depth": "3",
+							"_refid": "C76-8-S301.5_1800010118000101",
+							"_refnumber": "76-8-301.5",
+							"_start": "0",
+							"__text": "76-8-301.5"
+						},
+						"_number": "77-7-2(4)",
+						"__text": "when the peace officer has reasonable cause to believe the person has committed the offense of failure to disclose identity under Section \n; or"
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-2(5)(a)",
+								"__text": "subject to a civil removal order issued by an immigration judge;"
+							},
+							{
+								"_number": "77-7-2(5)(b)",
+								"__text": "regarding whom a civil detainer warrant has been issued by the federal Department of Homeland Security; or"
+							},
+							{
+								"_number": "77-7-2(5)(c)",
+								"__text": "who has been charged or convicted in another state with one or more aggravated felonies as defined by 8 U.S.C. Sec. 1101(a)(43)."
+							}
+						],
+						"_number": "77-7-2(5)",
+						"__text": "when the peace officer has reasonable cause to believe that the person is an alien:"
+					}
+				],
+				"_number": "77-7-2",
+				"__text": "A peace officer may make an arrest under authority of a warrant or may, without warrant, arrest a person:"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "1980GS",
+							"__text": "15"
+						},
+						"__text": "Enacted by Chapter \n, 1980 General Session"
+					},
+					"modyear": "1980"
+				},
+				"catchline": "By private persons.",
+				"tab": "",
+				"subsection": [
+					{
+						"_number": "77-7-3(1)",
+						"__text": "For a public offense committed or attempted in his presence; or"
+					},
+					{
+						"_number": "77-7-3(2)",
+						"__text": "When a felony has been committed and he has reasonable cause to believe the person arrested has committed it."
+					}
+				],
+				"_number": "77-7-3",
+				"__text": "A private person may arrest another:"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "1980GS",
+							"__text": "15"
+						},
+						"__text": "Enacted by Chapter \n, 1980 General Session"
+					},
+					"modyear": "1980"
+				},
+				"catchline": "Magistrate may orally order arrest.",
+				"tab": "",
+				"_number": "77-7-4",
+				"__text": "A magistrate may orally require a peace officer to arrest anyone committing or attempting to commit a public offense in the presence of the magistrate, and, in the case of an emergency, when probable cause exists, a magistrate may orally authorize a peace officer to arrest a person for a public offense, and thereafter, as soon as practical, an information shall be filed against the person arrested."
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2019GS",
+							"__text": "406"
+						},
+						"__text": "Amended by Chapter \n, 2019 General Session"
+					},
+					"modyear": "2019"
+				},
+				"catchline": "Issuance of summons or warrant -- Time and place arrests may be made -- Contents of warrant or summons -- Responsibility for transporting prisoners -- Court clerk to dispense restitution for transportation.",
+				"subsection": [
+					{
+						"subsection": [
+							{
+								"_number": "77-7-5(1)(a)",
+								"__text": "probable cause to believe that the person to be arrested has committed a public offense; and"
+							},
+							{
+								"subsection": [
+									{
+										"_number": "77-7-5(1)(b)(i)",
+										"__text": "prevent risk of injury to a person or property;"
+									},
+									{
+										"_number": "77-7-5(1)(b)(ii)",
+										"__text": "secure the appearance of the accused; or"
+									},
+									{
+										"_number": "77-7-5(1)(b)(iii)",
+										"__text": "protect the public safety and welfare of the community or an individual."
+									}
+								],
+								"_number": "77-7-5(1)(b)",
+								"__text": "under the Utah Rules of Criminal Procedure, and this section that a warrant is necessary to:"
+							}
+						],
+						"_number": "77-7-5(1)",
+						"__text": "A magistrate may issue a warrant for arrest in lieu of a summons for the appearance of the accused only upon finding:"
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-5(2)(a)",
+								"__text": "a felony, the arrest upon a warrant may be made at any time of the day or night; or"
+							},
+							{
+								"subsection": [
+									{
+										"_number": "77-7-5(2)(b)(i)",
+										"__text": "the magistrate has endorsed authorization to do so on the warrant;"
+									},
+									{
+										"_number": "77-7-5(2)(b)(ii)",
+										"__text": "the person to be arrested is upon a public highway, in a public place, or in a place open to or accessible to the public; or"
+									},
+									{
+										"_number": "77-7-5(2)(b)(iii)",
+										"__text": "the person to be arrested is encountered by a peace officer in the regular course of that peace officer's investigation of a criminal offense unrelated to the misdemeanor warrant for arrest."
+									}
+								],
+								"_number": "77-7-5(2)(b)",
+								"__text": "a misdemeanor, the arrest upon a warrant can be made at night only if:"
+							}
+						],
+						"_number": "77-7-5(2)",
+						"__text": "If the offense charged is:"
+					},
+					{
+						"xref": {
+							"_depth": "4",
+							"_refnumber": "77-7-5(1)",
+							"_start": "0",
+							"__text": "(1)"
+						},
+						"subsection": [
+							{
+								"_number": "77-7-5(3)(a)",
+								"__text": "daytime hours are the hours of 6 a.m. to 10 p.m.; and"
+							},
+							{
+								"_number": "77-7-5(3)(b)",
+								"__text": "nighttime hours are the hours after 10 p.m. and before 6 a.m."
+							}
+						],
+						"_number": "77-7-5(3)",
+						"__text": "For the purpose of Subsection \n:"
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-5(4)(a)",
+								"__text": "If the magistrate determines that the accused must appear in court, the magistrate shall include in the arrest warrant the name of the law enforcement agency in the county or municipality with jurisdiction over the offense charged."
+							},
+							{
+								"subsection": [
+									{
+										"xref": {
+											"_depth": "4",
+											"_refnumber": "77-7-5(4)(a)",
+											"_start": "0",
+											"__text": "(4)(a)"
+										},
+										"_number": "77-7-5(4)(b)(i)",
+										"__text": "The law enforcement agency identified by the magistrate under Subsection \n is responsible for providing inter-county transportation of the defendant, if necessary, from the arresting law enforcement agency to the court site."
+									},
+									{
+										"_number": "77-7-5(4)(b)(ii)",
+										"__text": "The law enforcement agency named on the warrant may contract with another law enforcement agency to have a defendant transported."
+									}
+								],
+								"_number": "77-7-5(4)(b)"
+							},
+							{
+								"subsection": [
+									{
+										"xref": {
+											"_depth": "4",
+											"_refnumber": "77-7-5(4)(a)",
+											"_start": "0",
+											"__text": "(4)(a)"
+										},
+										"_number": "77-7-5(4)(c)(i)",
+										"__text": "The law enforcement agency identified by the magistrate under Subsection \n as responsible for transporting the defendant shall provide to the court clerk of the court in which the defendant is tried, an affidavit stating that the defendant was transported, indicating the law enforcement agency responsible for the transportation, and stating the number of miles the defendant was transported."
+									},
+									{
+										"xref": {
+											"_depth": "4",
+											"_refnumber": "76-3-201(5)",
+											"_start": "0",
+											"__text": "76-3-201(5)"
+										},
+										"_number": "77-7-5(4)(c)(ii)",
+										"__text": "The court clerk shall account for restitution paid under Subsection \n for governmental transportation expenses and dispense restitution money collected by the court to the law enforcement agency responsible for the transportation of a convicted defendant."
+									}
+								],
+								"_number": "77-7-5(4)(c)"
+							}
+						],
+						"_number": "77-7-5(4)"
+					},
+					{
+						"xref": {
+							"_depth": "4",
+							"_refnumber": "77-7-5(4)(a)",
+							"_start": "0",
+							"__text": "(4)(a)"
+						},
+						"_number": "77-7-5(5)",
+						"__text": "The law enforcement agency identified by the magistrate under Subsection \n shall indicate to the court within 48 hours of the issuance, excluding Saturdays, Sundays, and legal holidays if a warrant issued pursuant to this section is an extradition warrant."
+					},
+					{
+						"xref": {
+							"_depth": "4",
+							"_refnumber": "77-7-5(4)(a)",
+							"_start": "0",
+							"__text": "(4)(a)"
+						},
+						"_number": "77-7-5(6)",
+						"__text": "The law enforcement agency identified by the magistrate under Subsection \n shall report any changes to the status of a warrant issued pursuant to this section to the Bureau of Criminal Identification."
+					}
+				],
+				"_number": "77-7-5"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2017GS",
+							"__text": "43"
+						},
+						"__text": "Amended by Chapter \n, 2017 General Session"
+					},
+					"modyear": "2017"
+				},
+				"catchline": "Manner of making arrest.",
+				"subsection": [
+					{
+						"subsection": [
+							{
+								"_number": "77-7-6(1)(a)",
+								"__text": "there is reason to believe the notice will endanger the life or safety of the officer or another person or will likely enable the party being arrested to escape;"
+							},
+							{
+								"_number": "77-7-6(1)(b)",
+								"__text": "the person being arrested is actually engaged in the commission of, or an attempt to commit, an offense; or"
+							},
+							{
+								"_number": "77-7-6(1)(c)",
+								"__text": "the person being arrested is pursued immediately after the commission of an offense or an escape."
+							}
+						],
+						"_number": "77-7-6(1)",
+						"__text": "The person making the arrest shall inform the person being arrested of his intention, cause, and authority to arrest him.  Such notice shall not be required when:"
+					},
+					{
+						"subsection": [
+							{
+								"xref": {
+									"_depth": "4",
+									"_refnumber": "78B-1-201(2)",
+									"_start": "0",
+									"__text": "78B-1-201(2)"
+								},
+								"_number": "77-7-6(2)(a)",
+								"__text": "If a deaf or hard of hearing person, as defined in Subsection \n, is arrested for an alleged violation of a criminal law, including a local ordinance, the arresting officer shall assess the communicative abilities of the deaf or hard of hearing person and conduct this notification, and any further notifications of rights, warnings, interrogations, or taking of statements, in a manner that accurately and effectively communicates with the deaf or hard of hearing person, including qualified interpreters, lip reading, pen and paper, typewriters, computers with print-out capability, and telecommunications devices for the deaf."
+							},
+							{
+								"xref": {
+									"_depth": "4",
+									"_refnumber": "77-7-6(2)",
+									"_start": "0",
+									"__text": "(2)"
+								},
+								"_number": "77-7-6(2)(b)",
+								"__text": "Compliance with this Subsection \n is a factor to be considered by any court when evaluating whether statements of a deaf or hard of hearing person were made knowingly, voluntarily, and intelligently."
+							}
+						],
+						"_number": "77-7-6(2)"
+					}
+				],
+				"_number": "77-7-6"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "1980GS",
+							"__text": "15"
+						},
+						"__text": "Enacted by Chapter \n, 1980 General Session"
+					},
+					"modyear": "1980"
+				},
+				"catchline": "Force in making arrest.",
+				"tab": "",
+				"xref": {
+					"_depth": "3",
+					"_refid": "C76-2-S404_1800010118000101",
+					"_refnumber": "76-2-404",
+					"_start": "0",
+					"__text": "76-2-404"
+				},
+				"_number": "77-7-7",
+				"__text": "If a person is being arrested and flees or forcibly resists after being informed of the intention to make the arrest, the person arresting may use reasonable force to effect the arrest. Deadly force may be used only as provided in Section \n."
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2015GS",
+							"__text": "317"
+						},
+						"__text": "Amended by Chapter \n, 2015 General Session"
+					},
+					"modyear": "2015"
+				},
+				"catchline": "Forcible entry to conduct search or make arrest -- Conditions requiring a warrant.",
+				"subsection": [
+					{
+						"subsection": [
+							{
+								"xref": {
+									"_depth": "4",
+									"_refnumber": "77-7-8(2)",
+									"_start": "0",
+									"__text": "(2)"
+								},
+								"_number": "77-7-8(1)(a)",
+								"__text": "Subject to Subsection \n, a peace officer when making an arrest may forcibly enter the building in which the person to be arrested is located, or in which there is probable cause for believing the person to be."
+							},
+							{
+								"subsection": [
+									{
+										"_number": "77-7-8(1)(b)(i)",
+										"__text": "identify himself or herself as a law enforcement officer;"
+									},
+									{
+										"_number": "77-7-8(1)(b)(ii)",
+										"__text": "demand admission;"
+									},
+									{
+										"_number": "77-7-8(1)(b)(iii)",
+										"__text": "wait a reasonable period of time for an occupant to admit access; and"
+									},
+									{
+										"_number": "77-7-8(1)(b)(iv)",
+										"__text": "explain the purpose for which admission is desired."
+									}
+								],
+								"_number": "77-7-8(1)(b)",
+								"__text": "Before making the forcible entry, the officer shall:"
+							},
+							{
+								"subsection": [
+									{
+										"xref": {
+											"_depth": "3",
+											"_refnumber": "77-7-6",
+											"_start": "0",
+											"__text": "77-7-6"
+										},
+										"_number": "77-7-8(1)(c)(i)",
+										"__text": "The officer need not give a demand and explanation, or identify himself or herself, before making a forcible entry under the exceptions in Section \n or where there is probable cause to believe evidence will be easily or quickly destroyed."
+									},
+									{
+										"_number": "77-7-8(1)(c)(ii)",
+										"__text": "The officer shall identify himself or herself and state the purpose for entering the premises as soon as practicable after entering the premises."
+									}
+								],
+								"_number": "77-7-8(1)(c)"
+							},
+							{
+								"_number": "77-7-8(1)(d)",
+								"__text": "The officer may use only that force which is reasonable and necessary to effectuate forcible entry under this section."
+							}
+						],
+						"_number": "77-7-8(1)"
+					},
+					{
+						"xref": {
+							"_depth": "4",
+							"_refnumber": "77-7-8(1)",
+							"_start": "0",
+							"__text": "(1)"
+						},
+						"subsection": [
+							{
+								"_number": "77-7-8(2)(a)",
+								"__text": "obtain an arrest or search warrant if the building is the residence of the person to be arrested; or"
+							},
+							{
+								"_number": "77-7-8(2)(b)",
+								"__text": "obtain a search warrant if the building is a residence, but not the residence of the person whose arrest is sought."
+							}
+						],
+						"_number": "77-7-8(2)",
+						"__text": "If the building to be entered under Subsection \n appears to be a private residence or the officer knows the building is a private residence, and if there is no consent to enter or there are no exigent circumstances, the officer shall, before entering the building:"
+					},
+					{
+						"subsection": [
+							{
+								"xref": {
+									"_depth": "3",
+									"_refnumber": "58-37-8",
+									"_start": "0",
+									"__text": "58-37-8"
+								},
+								"_number": "77-7-8(3)(a)",
+								"__text": "possession or use of a controlled substance under Section \n; or"
+							},
+							{
+								"xref": {
+									"_depth": "3",
+									"_refnumber": "58-37a-3",
+									"_start": "0",
+									"__text": "58-37a-3"
+								},
+								"_number": "77-7-8(3)(b)",
+								"__text": "the possession of drug paraphernalia as defined in Section \n."
+							}
+						],
+						"_number": "77-7-8(3)",
+						"__text": "Notwithstanding any other provision of this chapter, forcible entry under this section may not be made solely for the alleged:"
+					}
+				],
+				"_number": "77-7-8"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2014GS",
+							"__text": "106"
+						},
+						"__text": "Enacted by Chapter \n, 2014 General Session"
+					},
+					"modyear": "2014"
+				},
+				"catchline": "Use of tactical groups -- Reporting requirements.",
+				"subsection": [
+					{
+						"subsection": [
+							{
+								"subsection": [
+									{
+										"subsection": [
+											{
+												"_number": "77-7-8.5(1)(a)(i)(A)",
+												"__text": "the deployment of a tactical group; or"
+											},
+											{
+												"_number": "77-7-8.5(1)(a)(i)(B)",
+												"__text": "law enforcement officers who serve a search warrant after using forcible entry."
+											}
+										],
+										"_number": "77-7-8.5(1)(a)(i)",
+										"__text": "\"Reportable incident\" means:"
+									},
+									{
+										"_number": "77-7-8.5(1)(a)(ii)",
+										"__text": "\"Reportable incident\" does not mean a forced cell entry at a corrections facility."
+									}
+								],
+								"_number": "77-7-8.5(1)(a)"
+							},
+							{
+								"_number": "77-7-8.5(1)(b)",
+								"__text": "\"Tactical group\" means a special unit, within a law enforcement agency, specifically trained and equipped to respond to critical, high-risk situations."
+							}
+						],
+						"_number": "77-7-8.5(1)",
+						"__text": "As used in this section:"
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-8.5(2)(a)",
+								"__text": "whether the law enforcement agency conducted one or more reportable incidents;"
+							},
+							{
+								"subsection": [
+									{
+										"_number": "77-7-8.5(2)(b)(i)",
+										"__text": "the organizational title of the agency, task force, or tactical group deployed;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(ii)",
+										"__text": "the city, county, and zip code of the location where the reportable incident occurred;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(iii)",
+										"__text": "the reason for the deployment;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(iv)",
+										"__text": "the type of warrant obtained, if any;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(v)",
+										"__text": "if a threat assessment was completed;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(vi)",
+										"__text": "if a warrant was obtained, the name of the judge or magistrate who authorized the warrant;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(vii)",
+										"__text": "the number of arrests made, if any;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(viii)",
+										"__text": "if any evidence was seized;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(ix)",
+										"__text": "if any property was seized, other than property that was seized as evidence;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(x)",
+										"__text": "if a forcible entry was made;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(xi)",
+										"__text": "if a firearm was discharged by a law enforcement officer, and, if so, approximately how many shots were fired by each officer;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(xii)",
+										"__text": "if a weapon was brandished by a person other than the law enforcement officers;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(xiii)",
+										"__text": "if a weapon was used by a person against the law enforcement officers and, if a firearm was used, the number or approximate number of shots fired by the person;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(xiv)",
+										"__text": "the identity of any law enforcement agencies that participated or provided resources for the deployment;"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(xv)",
+										"__text": "if a person or domestic animal was injured or killed by a law enforcement officer; and"
+									},
+									{
+										"_number": "77-7-8.5(2)(b)(xvi)",
+										"__text": "if a law enforcement officer was injured or killed; and"
+									}
+								],
+								"_number": "77-7-8.5(2)(b)",
+								"__text": "the following information regarding each reportable incident:"
+							},
+							{
+								"xref": {
+									"_depth": "3",
+									"_refnumber": "77-7-8",
+									"_start": "0",
+									"__text": "77-7-8"
+								},
+								"_number": "77-7-8.5(2)(c)",
+								"__text": "the number of arrest warrants served that required a forced entry as provided by Section \n and were not served in conjunction with a search warrant that resulted in a reportable incident."
+							}
+						],
+						"_number": "77-7-8.5(2)",
+						"__text": "On and after January 1, 2015, every state, county, municipal, or other law enforcement agency shall annually on or before April 30 report to the Commission on Criminal and Juvenile Justice the following information for the previous calendar year:"
+					},
+					{
+						"_number": "77-7-8.5(3)",
+						"__text": "If a warrant is served by a multijurisdictional team of law enforcement officers, the reporting requirement in this section shall be the responsibility of the commanding agency or governing authority of the multijurisdictional team."
+					},
+					{
+						"xref": {
+							"_depth": "4",
+							"_refnumber": "77-7-8.5(2)",
+							"_start": "0",
+							"__text": "(2)"
+						},
+						"_number": "77-7-8.5(4)",
+						"__text": "The Commission on Criminal and Juvenile Justice shall develop a standardized format that each law enforcement agency shall use in reporting the data required in Subsection \n."
+					},
+					{
+						"subsection": [
+							{
+								"xref": [
+									{
+										"_depth": "4",
+										"_refnumber": "77-7-8.5(2)",
+										"_start": "0",
+										"__text": "(2)"
+									},
+									{
+										"_depth": "4",
+										"_refnumber": "77-7-8.5(4)",
+										"_start": "0",
+										"__text": "(4)"
+									}
+								],
+								"_number": "77-7-8.5(5)(a)",
+								"__text": "compile the data described in Subsection \n for each year as a report in the format required under Subsection \n; and"
+							},
+							{
+								"subsection": [
+									{
+										"_number": "77-7-8.5(5)(b)(i)",
+										"__text": "the Commission on Criminal and Juvenile Justice; and"
+									},
+									{
+										"_number": "77-7-8.5(5)(b)(ii)",
+										"__text": "the local governing body of the jurisdiction served by the law enforcement agency."
+									}
+								],
+								"_number": "77-7-8.5(5)(b)",
+								"__text": "submit the report to:"
+							}
+						],
+						"_number": "77-7-8.5(5)",
+						"__text": "A law enforcement agency shall:"
+					},
+					{
+						"subsection": [
+							{
+								"xref": {
+									"_depth": "4",
+									"_refnumber": "77-7-8.5(2)",
+									"_start": "0",
+									"__text": "(2)"
+								},
+								"_number": "77-7-8.5(6)(a)",
+								"__text": "The Commission on Criminal and Juvenile Justice shall summarize the yearly reports of law enforcement agencies submitted under Subsection \n."
+							},
+							{
+								"xref": {
+									"_depth": "4",
+									"_refnumber": "77-7-8.5(6)(a)",
+									"_start": "0",
+									"__text": "(6)(a)"
+								},
+								"subsection": [
+									{
+										"_number": "77-7-8.5(6)(b)(i)",
+										"__text": "the attorney general;"
+									},
+									{
+										"_number": "77-7-8.5(6)(b)(ii)",
+										"__text": "the speaker of the House of Representatives, for referral to any house standing or interim committees with oversight of law enforcement and criminal justice;"
+									},
+									{
+										"_number": "77-7-8.5(6)(b)(iii)",
+										"__text": "the president of the Senate, for referral to any senate standing or interim committees with oversight of law enforcement and criminal justice; and"
+									},
+									{
+										"_number": "77-7-8.5(6)(b)(iv)",
+										"__text": "each law enforcement agency."
+									}
+								],
+								"_number": "77-7-8.5(6)(b)",
+								"__text": "Before August 1 of each year, the Commission on Criminal and Juvenile Justice shall submit a report of the summaries described in Subsection \n to:"
+							},
+							{
+								"xref": {
+									"_depth": "4",
+									"_refnumber": "77-7-8.5(6)(b)",
+									"_start": "0",
+									"__text": "(6)(b)"
+								},
+								"_number": "77-7-8.5(6)(c)",
+								"__text": "The report described in Subsection \n shall be published on the Utah Open Government website, open.utah.gov, before August 15 of each year."
+							}
+						],
+						"_number": "77-7-8.5(6)"
+					},
+					{
+						"subsection": [
+							{
+								"xref": {
+									"_depth": "4",
+									"_refnumber": "77-7-8.5(2)",
+									"_start": "0",
+									"__text": "(2)"
+								},
+								"_number": "77-7-8.5(7)(a)",
+								"__text": "If a law enforcement agency fails to comply with the reporting requirements listed in Subsection \n, the Commission on Criminal and Juvenile Justice shall contact the law enforcement agency and request that the agency comply with the required reporting provisions."
+							},
+							{
+								"xref": {
+									"_depth": "4",
+									"_refnumber": "77-7-8.5(2)",
+									"_start": "0",
+									"__text": "(2)"
+								},
+								"_number": "77-7-8.5(7)(b)",
+								"__text": "If a law enforcement agency fails to comply with the reporting requirements listed in Subsection \n within 30 days after being contacted by the Commission on Criminal and Juvenile Justice with a request to comply, the Commission on Criminal and Juvenile Justice shall report the noncompliance to the attorney general, the speaker of the House of Representatives, and the president of the Senate."
+							}
+						],
+						"_number": "77-7-8.5(7)"
+					}
+				],
+				"_number": "77-7-8.5"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "1980GS",
+							"__text": "15"
+						},
+						"__text": "Enacted by Chapter \n, 1980 General Session"
+					},
+					"modyear": "1980"
+				},
+				"catchline": "Weapons may be taken from prisoner.",
+				"tab": "",
+				"_number": "77-7-9",
+				"__text": "Any person making an arrest may seize from the person arrested all weapons which he may have on or about his person."
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "1980GS",
+							"__text": "15"
+						},
+						"__text": "Enacted by Chapter \n, 1980 General Session"
+					},
+					"modyear": "1980"
+				},
+				"catchline": "Telegraph or telephone authorization of execution of arrest warrant.",
+				"tab": "",
+				"_number": "77-7-10",
+				"__text": "Any magistrate may, by an endorsement on a warrant of arrest, authorize by telegraph, telephone or other reasonable means, its execution. A copy of the warrant or notice of its issuance and terms may be sent to one or more peace officers. The copy or notice communicated authorizes the officer to proceed in the same manner under it as if he had an original warrant."
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "1980GS",
+							"__text": "15"
+						},
+						"__text": "Enacted by Chapter \n, 1980 General Session"
+					},
+					"modyear": "1980"
+				},
+				"catchline": "Possession of warrant by arresting officer not required.",
+				"tab": "",
+				"_number": "77-7-11",
+				"__text": "Any peace officer who has knowledge of an outstanding warrant of arrest may arrest a person he reasonably believes to be the person described in the warrant, without the peace officer having physical possession of the warrant."
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "1987GS",
+							"__text": "245"
+						},
+						"__text": "Amended by Chapter \n, 1987 General Session"
+					},
+					"modyear": "1987"
+				},
+				"catchline": "Detaining persons suspected of shoplifting or library theft -- Persons authorized.",
+				"subsection": [
+					{
+						"_number": "77-7-12(1)",
+						"__text": "A peace officer, merchant, or merchant's employee, servant, or agent who has reasonable grounds to believe that goods held or displayed for sale by the merchant have been taken by a person with intent to steal may, for the purpose of investigating the unlawful act and attempting to effect a recovery of the goods, detain the person in a reasonable manner for a reasonable length of time."
+					},
+					{
+						"xref": [
+							{
+								"_depth": "4",
+								"_refid": "C77-7-S12_1800010118000101",
+								"_refnumber": "77-7-12(1)",
+								"_start": "0",
+								"__text": "(1)"
+							},
+							{
+								"_depth": "2",
+								"_refid": "C76-6-P8_1800010118000101",
+								"_refnumber": "76-6-8",
+								"_start": "0",
+								"__text": "Title 76, Chapter 6, Part 8, Library Theft"
+							}
+						],
+						"_number": "77-7-12(2)",
+						"__text": "A peace officer or employee of a library may detain a person for the purposes and under the limits of Subsection \n if there are reasonable grounds to believe the person violated \n."
+					}
+				],
+				"_number": "77-7-12"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "1998GS",
+							"__text": "282"
+						},
+						"__text": "Amended by Chapter \n, 1998 General Session"
+					},
+					"modyear": "1998"
+				},
+				"catchline": "Arrest without warrant by peace officer -- Reasonable grounds, what constitutes -- Exemption from civil or criminal liability.",
+				"subsection": [
+					{
+						"xref": {
+							"_depth": "2",
+							"_refid": "C76-6-P8_1800010118000101",
+							"_refnumber": "76-6-8",
+							"_start": "0",
+							"__text": "Title 76, Chapter 6, Part 8, Library Theft"
+						},
+						"_number": "77-7-13(1)",
+						"__text": "A peace officer may arrest, without warrant, any person the officer has reasonable ground to believe has committed a theft under \n, or of goods held or displayed for sale."
+					},
+					{
+						"xref": {
+							"_depth": "2",
+							"_refid": "",
+							"_refnumber": "76-6-8",
+							"_start": "0",
+							"__text": "Title 76, Chapter 6, Part 8, Library Theft"
+						},
+						"_number": "77-7-13(2)",
+						"__text": "A charge of theft made to a peace officer under \n, by an employee of a library, or by a merchant, merchant's employee, servant, or agent constitutes a reasonable ground for arrest, and the peace officer is relieved from any civil or criminal liability."
+					}
+				],
+				"_number": "77-7-13"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "1987GS",
+							"__text": "245"
+						},
+						"__text": "Amended by Chapter \n, 1987 General Session"
+					},
+					"modyear": "1987"
+				},
+				"catchline": "Person causing detention or arrest of person suspected of shoplifting or library theft -- Civil and criminal immunity.",
+				"subsection": [
+					{
+						"xref": {
+							"_depth": "3",
+							"_refid": "C77-7-S12_1800010118000101",
+							"_refnumber": "77-7-12",
+							"_start": "0",
+							"__text": "77-7-12"
+						},
+						"_number": "77-7-14(1)",
+						"__text": "A peace officer, merchant, or merchant's employee, servant, or agent who causes the detention of a person as provided in Section \n, or who causes the arrest of a person for theft of goods held or displayed for sale, is not criminally or civilly liable where he has reasonable and probable cause to believe the person detained or arrested committed a theft of goods held or displayed for sale."
+					},
+					{
+						"xref": {
+							"_depth": "2",
+							"_refid": "C76-6-P8_1800010118000101",
+							"_refnumber": "76-6-8",
+							"_start": "0",
+							"__text": "Title 76, Chapter 6, Part 8, Library Theft"
+						},
+						"_number": "77-7-14(2)",
+						"__text": "A peace officer or employee of a library who causes a detention or arrest of a person under \n, is not criminally or civilly liable where he has reasonable and probable cause to believe that the person committed a theft of library materials."
+					}
+				],
+				"_number": "77-7-14"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2019GS",
+							"__text": "411"
+						},
+						"__text": "Amended by Chapter \n, 2019 General Session"
+					},
+					"modyear": "2019"
+				},
+				"catchline": "Authority of peace officer to stop and question suspect -- Grounds.",
+				"tab": "",
+				"_number": "77-7-15",
+				"__text": "A peace officer may stop any individual in a public place when the officer has a reasonable suspicion to believe the individual has committed or is in the act of committing or is attempting to commit a public offense and may demand the individual's name, address, date of birth, and an explanation of the individual's actions."
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "1980GS",
+							"__text": "15"
+						},
+						"__text": "Enacted by Chapter \n, 1980 General Session"
+					},
+					"modyear": "1980"
+				},
+				"catchline": "Authority of peace officer to frisk suspect for dangerous weapon -- Grounds.",
+				"tab": "",
+				"_number": "77-7-16",
+				"__text": "A peace officer who has stopped a person temporarily for questioning may frisk the person for a dangerous weapon if he reasonably believes he or any other person is in danger."
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "1980GS",
+							"__text": "15"
+						},
+						"__text": "Enacted by Chapter \n, 1980 General Session"
+					},
+					"modyear": "1980"
+				},
+				"catchline": "Authority of peace officer to take possession of weapons.",
+				"tab": "",
+				"_number": "77-7-17",
+				"__text": "A peace officer who finds a dangerous weapon pursuant to a frisk may take and keep it until the completion of the questioning, at which time he shall either return it if lawfully possessed, or arrest such person."
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2019GS",
+							"__text": "462"
+						},
+						"__text": "Enacted by Chapter \n, 2019 General Session"
+					},
+					"modyear": "2019"
+				},
+				"catchline": "Physical body cavity search policy -- Requirements.",
+				"subsection": [
+					{
+						"subsection": [
+							{
+								"_number": "77-7-17.5(1)(a)",
+								"__text": "\"Arrestee\" means an individual who is in the custody of law enforcement for an offense for which the individual has not been convicted."
+							},
+							{
+								"subsection": [
+									{
+										"_number": "77-7-17.5(1)(b)(i)",
+										"__text": "\"Body cavity\" includes the anus, rectum, vagina, esophagus, or stomach."
+									},
+									{
+										"_number": "77-7-17.5(1)(b)(ii)",
+										"__text": "\"Body cavity\" does not include the mouth, ear canal, or nasal passages."
+									}
+								],
+								"_number": "77-7-17.5(1)(b)"
+							},
+							{
+								"subsection": [
+									{
+										"subsection": [
+											{
+												"_number": "77-7-17.5(1)(c)(i)(A)",
+												"__text": "any part of another individual's body; or"
+											},
+											{
+												"_number": "77-7-17.5(1)(c)(i)(B)",
+												"__text": "an instrument or other item."
+											}
+										],
+										"_number": "77-7-17.5(1)(c)(i)",
+										"__text": "\"Physical body cavity search\" means a search of a body cavity of an individual that involves touching the individual with:"
+									},
+									{
+										"_number": "77-7-17.5(1)(c)(ii)",
+										"__text": "\"Physical body cavity search\" does not include a clothed, pat down search."
+									}
+								],
+								"_number": "77-7-17.5(1)(c)"
+							}
+						],
+						"_number": "77-7-17.5(1)",
+						"__text": "As used in this section:"
+					},
+					{
+						"_number": "77-7-17.5(2)",
+						"__text": "Each county jail shall adopt and implement a policy that meets the minimum standards contained in a model policy established by the Commission on Criminal and Juvenile Justice."
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-17.5(3)(a)",
+								"__text": "stating with specificity the circumstances under which a body cavity search may be performed on an arrestee;"
+							},
+							{
+								"_number": "77-7-17.5(3)(b)",
+								"__text": "designating who may authorize the performance of a body cavity search;"
+							},
+							{
+								"_number": "77-7-17.5(3)(c)",
+								"__text": "designating specific jail staff or medical personnel who may perform a body cavity search;"
+							},
+							{
+								"_number": "77-7-17.5(3)(d)",
+								"__text": "requiring any nonmedically trained jail staff who may perform a body cavity search to be trained on safe practices for conducting a body cavity search;"
+							},
+							{
+								"subsection": [
+									{
+										"_number": "77-7-17.5(3)(e)(i)",
+										"__text": "the identity of the arrestee searched;"
+									},
+									{
+										"_number": "77-7-17.5(3)(e)(ii)",
+										"__text": "the date, time, and location of the search;"
+									},
+									{
+										"_number": "77-7-17.5(3)(e)(iii)",
+										"__text": "the identity of the individual performing the search;"
+									},
+									{
+										"_number": "77-7-17.5(3)(e)(iv)",
+										"__text": "the identity of the individual authorizing the search;"
+									},
+									{
+										"_number": "77-7-17.5(3)(e)(v)",
+										"__text": "a description of the body areas searched and the procedures followed in performing the search; and"
+									},
+									{
+										"_number": "77-7-17.5(3)(e)(vi)",
+										"__text": "the circumstances necessitating the body cavity search; and"
+									}
+								],
+								"_number": "77-7-17.5(3)(e)",
+								"__text": "requiring documentation of each body cavity search performed at the correctional facility, including:"
+							},
+							{
+								"subsection": [
+									{
+										"_number": "77-7-17.5(3)(f)(i)",
+										"__text": "the location where a body cavity search must be performed;"
+									},
+									{
+										"_number": "77-7-17.5(3)(f)(ii)",
+										"__text": "the gender requirements of the individuals who perform or observe the search in relation to the gender of the arrestee being searched; and"
+									},
+									{
+										"_number": "77-7-17.5(3)(f)(iii)",
+										"__text": "methods to ensure the body cavity search is conducted with the minimal amount of touching necessary to effectuate the purposes of the search."
+									}
+								],
+								"_number": "77-7-17.5(3)(f)",
+								"__text": "designating rules and procedures to be followed, by authorized staff, when performing a body cavity search that account for the health and privacy interests of the arrestee, including:"
+							}
+						],
+						"_number": "77-7-17.5(3)",
+						"__text": "The model policy shall specify the minimum standards and procedures to be followed by the county jail when a body cavity search is performed on an arrestee within the county jail's jurisdiction, including:"
+					},
+					{
+						"_number": "77-7-17.5(4)",
+						"__text": "A county jail's body cavity search policy is a public record."
+					}
+				],
+				"_number": "77-7-17.5"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2018GS",
+							"__text": "379"
+						},
+						"__text": "Amended by Chapter \n, 2018 General Session"
+					},
+					"modyear": "2018"
+				},
+				"catchline": "Citation on misdemeanor or infraction charge.",
+				"subsection": [
+					{
+						"_number": "77-7-18(1)",
+						"__text": "Any person subject to arrest or prosecution on a misdemeanor or infraction charge may be issued and delivered a citation that requires the person to appear at the court of the magistrate with territorial jurisdiction."
+					},
+					{
+						"xref": {
+							"_depth": "4",
+							"_refnumber": "77-7-18(1)",
+							"_start": "0",
+							"__text": "(1)"
+						},
+						"subsection": [
+							{
+								"_number": "77-7-18(2)(a)",
+								"__text": "a peace officer, in lieu of or in addition to taking the person into custody;"
+							},
+							{
+								"_number": "77-7-18(2)(b)",
+								"__text": "any public official of any county or municipality charged with the enforcement of the law;"
+							},
+							{
+								"xref": {
+									"_depth": "3",
+									"_refnumber": "72-1-102",
+									"_start": "0",
+									"__text": "72-1-102"
+								},
+								"_number": "77-7-18(2)(c)",
+								"__text": "a port-of-entry agent as defined in Section \n;"
+							},
+							{
+								"xref": {
+									"_depth": "1",
+									"_refnumber": "17D-1",
+									"_start": "0",
+									"__text": "Title 17D, Chapter 1, Special Service District Act"
+								},
+								"_number": "77-7-18(2)(d)",
+								"__text": "an animal control officer of a county, municipality, or special service district under \n, who is authorized to provide animal control service; and"
+							},
+							{
+								"xref": {
+									"_depth": "3",
+									"_refnumber": "41-6a-217",
+									"_start": "0",
+									"__text": "41-6a-217"
+								},
+								"_number": "77-7-18(2)(e)",
+								"__text": "a volunteer authorized to issue a citation under Section \n."
+							}
+						],
+						"_number": "77-7-18(2)",
+						"__text": "The following may issue the citation described in Subsection \n:"
+					}
+				],
+				"_number": "77-7-18"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2009GS",
+							"__text": "292"
+						},
+						"__text": "Amended by Chapter \n, 2009 General Session"
+					},
+					"modyear": "2009"
+				},
+				"catchline": "Appearance required by citation -- Arrest for failure to appear -- Transfer of cases -- Motor vehicle violations -- Disposition of fines and costs.",
+				"subsection": [
+					{
+						"xref": [
+							{
+								"_depth": "3",
+								"_refid": "C77-7-S18_1800010118000101",
+								"_refnumber": "77-7-18",
+								"_start": "0",
+								"__text": "77-7-18"
+							},
+							{
+								"_depth": "4",
+								"_refid": "C77-7-S21_1800010118000101",
+								"_refnumber": "77-7-21(1)",
+								"_start": "0",
+								"__text": "77-7-21(1)"
+							}
+						],
+						"_number": "77-7-19(1)",
+						"__text": "A person receiving a citation issued pursuant to Section \n shall appear before the magistrate designated in the citation on or before the time and date specified in the citation unless the uniform bail schedule adopted by the Judicial Council or Subsection \n permits forfeiture of bail for the offense charged."
+					},
+					{
+						"_number": "77-7-19(2)",
+						"__text": "A citation may not require a person to appear sooner than five days or later than 14 days following its issuance."
+					},
+					{
+						"subsection": [
+							{
+								"xref": {
+									"_depth": "3",
+									"_refid": "C77-7-S21_1800010118000101",
+									"_refnumber": "77-7-21",
+									"_start": "0",
+									"__text": "77-7-21"
+								},
+								"_number": "77-7-19(3)(a)",
+								"__text": "A person who receives a citation and who fails to comply with Section \n on or before the time and date and at the court specified is subject to arrest."
+							},
+							{
+								"xref": {
+									"_depth": "3",
+									"_refid": "C77-7-S20_1800010118000101",
+									"_refnumber": "77-7-20",
+									"_start": "0",
+									"__text": "77-7-20"
+								},
+								"_number": "77-7-19(3)(b)",
+								"__text": "The magistrate may issue a warrant of arrest based upon a citation that was served and filed in accordance with Section \n."
+							}
+						],
+						"_number": "77-7-19(3)"
+					},
+					{
+						"xref": {
+							"_depth": "0",
+							"_refid": "C41_1800010118000101",
+							"_refnumber": "41",
+							"_start": "0",
+							"__text": "Title 41, Motor Vehicles"
+						},
+						"_number": "77-7-19(4)",
+						"__text": "Except where otherwise provided by law, a citation or information issued for violations of \n, shall state that the person receiving the citation or information shall appear before the magistrate who has jurisdiction over the offense charged."
+					},
+					{
+						"_number": "77-7-19(5)",
+						"__text": "Any justice court judge may, upon the motion of either the defense attorney or prosecuting attorney, based on a lack of territorial jurisdiction or the disqualification of the judge, transfer cases to a justice court with territorial jurisdiction or the district court within the county."
+					},
+					{
+						"subsection": [
+							{
+								"xref": {
+									"_depth": "0",
+									"_refid": "C41_1800010118000101",
+									"_refnumber": "41",
+									"_start": "0",
+									"__text": "Title 41, Motor Vehicles"
+								},
+								"_number": "77-7-19(6)(a)",
+								"__text": "Clerks and other administrative personnel serving the courts shall ensure that all citations for violation of \n, are filed in a court with jurisdiction and venue and shall refuse to receive citations that should be filed in another court."
+							},
+							{
+								"xref": {
+									"_depth": "0",
+									"_refid": "C41_1800010118000101",
+									"_refnumber": "41",
+									"_start": "0",
+									"__text": "Title 41, Motor Vehicles"
+								},
+								"_number": "77-7-19(6)(b)",
+								"__text": "Fines, fees, costs, and forfeitures imposed or collected for violations of \n, which are filed contrary to this section shall be paid to the entitled municipality or county by the state, county, or municipal treasurer who has received the fines, fees, costs, or forfeitures from the court which collected them."
+							},
+							{
+								"_number": "77-7-19(6)(c)",
+								"__text": "The accounting and remitting of sums due shall be at the close of the fiscal year of the municipality or county which has received fines, fees, costs, or forfeitures as a result of any improperly filed citations."
+							}
+						],
+						"_number": "77-7-19(6)"
+					}
+				],
+				"_number": "77-7-19"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2018GS",
+							"__text": "309"
+						},
+						"__text": "Amended by Chapter \n, 2018 General Session"
+					},
+					"modyear": "2018"
+				},
+				"catchline": "Service of citation on defendant -- Filing in court -- Electronic filing -- Contents of citations.",
+				"subsection": [
+					{
+						"xref": [
+							{
+								"_depth": "4",
+								"_refnumber": "77-7-20(4)",
+								"_start": "0",
+								"__text": "(4)"
+							},
+							{
+								"_depth": "3",
+								"_refnumber": "77-7-18",
+								"_start": "0",
+								"__text": "77-7-18"
+							},
+							{
+								"_depth": "4",
+								"_refnumber": "77-7-20(2)(a)",
+								"_start": "0",
+								"__text": "(2)(a)"
+							},
+							{
+								"_depth": "4",
+								"_refnumber": "77-7-20(2)(g)",
+								"_start": "0",
+								"__text": "(2)(g)"
+							}
+						],
+						"_number": "77-7-20(1)",
+						"__text": "Except as provided in Subsection \n, a peace officer or public official who issues a citation pursuant to Section \n shall give the citation to the individual cited and shall within five business days electronically file the data from Subsections \n through \n with the court specified in the citation.  The data transmission shall use the court's electronic filing interface.  A nonconforming filing is not effective."
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-20(2)(a)",
+								"__text": "the name of the court before which the individual is to appear;"
+							},
+							{
+								"_number": "77-7-20(2)(b)",
+								"__text": "the name of the individual cited;"
+							},
+							{
+								"_number": "77-7-20(2)(c)",
+								"__text": "a brief description of the offense charged;"
+							},
+							{
+								"_number": "77-7-20(2)(d)",
+								"__text": "the date, time, and place at which the offense is alleged to have occurred;"
+							},
+							{
+								"_number": "77-7-20(2)(e)",
+								"__text": "the date on which the citation was issued;"
+							},
+							{
+								"_number": "77-7-20(2)(f)",
+								"__text": "the name of the peace officer or public official who issued the citation, and the name of the arresting individual if an arrest was made by a private party and the citation was issued in lieu of taking the arrested individual before a magistrate;"
+							},
+							{
+								"_number": "77-7-20(2)(g)",
+								"__text": "the time and date on or before and after which the individual is to appear or a statement that the court will notify the individual of the time to appear;"
+							},
+							{
+								"_number": "77-7-20(2)(h)",
+								"__text": "the address of the court in which the individual is to appear;"
+							},
+							{
+								"_number": "77-7-20(2)(i)",
+								"__text": "whether the offense is a domestic violence offense; and"
+							},
+							{
+								"eol": [
+									"",
+									""
+								],
+								"center": "READ CAREFULLY",
+								"tab": "",
+								"_number": "77-7-20(2)(j)",
+								"__text": "a notice containing substantially the following language:\nThis citation is not an information and will not be used as an information without your consent.  If an information is filed you will be provided a copy by the court.  You MUST appear in court on or before the time set in this citation or as directed by the court.  IF YOU FAIL TO APPEAR, THE COURT MAY ISSUE A WARRANT FOR YOUR ARREST."
+							}
+						],
+						"_number": "77-7-20(2)",
+						"__text": "The citation issued under authority of this chapter shall contain the following data:"
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-20(3)(a)",
+								"__text": "the citation or information, including the summons and complaint, was served upon the defendant in accordance with the law;"
+							},
+							{
+								"_number": "77-7-20(3)(b)",
+								"__text": "the defendant committed the offense set forth in the served documents; and"
+							},
+							{
+								"xref": {
+									"_depth": "3",
+									"_refnumber": "77-7-21",
+									"_start": "0",
+									"__text": "77-7-21"
+								},
+								"_number": "77-7-20(3)(c)",
+								"__text": "the court to which the defendant was directed to appear is the proper court pursuant to Section \n."
+							}
+						],
+						"_number": "77-7-20(3)",
+						"__text": "By electronically filing the data with the court, the peace officer or public official certifies to the court that:"
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-20(4)(a)",
+								"__text": "If a citing law enforcement officer is not reasonably able to access the efiling system, the citation need not be filed electronically if being filed with a justice court."
+							},
+							{
+								"subsection": [
+									{
+										"_number": "77-7-20(4)(b)(i)",
+										"__text": "the defendant consents to the filing; and"
+									},
+									{
+										"_number": "77-7-20(4)(b)(ii)",
+										"__text": "the court finds the interests of justice would be best served by accepting the filing."
+									}
+								],
+								"_number": "77-7-20(4)(b)",
+								"__text": "The court may accept an electronic filing received after five business days if:"
+							}
+						],
+						"_number": "77-7-20(4)"
+					}
+				],
+				"_number": "77-7-20"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2009GS",
+							"__text": "292"
+						},
+						"__text": "Amended by Chapter \n, 2009 General Session"
+					},
+					"modyear": "2009"
+				},
+				"catchline": "Proceeding on citation -- Voluntary forfeiture of bail -- Parent signature required -- Information, when required.",
+				"subsection": [
+					{
+						"subsection": [
+							{
+								"xref": {
+									"_depth": "3",
+									"_refid": "C77-7-S18_1800010118000101",
+									"_refnumber": "77-7-18",
+									"_start": "0",
+									"__text": "77-7-18"
+								},
+								"_number": "77-7-21(1)(a)",
+								"__text": "A copy of the citation issued under Section \n that is filed with the magistrate may be used in lieu of an information to which the person cited may plead guilty or no contest and be sentenced or on which bail may be forfeited."
+							},
+							{
+								"_number": "77-7-21(1)(b)",
+								"__text": "With the magistrate's approval, a person may voluntarily forfeit bail without appearance being required in any case of a class B misdemeanor or less."
+							},
+							{
+								"_number": "77-7-21(1)(c)",
+								"__text": "Voluntary forfeiture of bail shall be entered as a conviction and treated the same as if the accused pleaded guilty."
+							},
+							{
+								"xref": {
+									"_depth": "0",
+									"_refid": "C41_1800010118000101",
+									"_refnumber": "41",
+									"_start": "0",
+									"__text": "Title 41, Motor Vehicles"
+								},
+								"_number": "77-7-21(1)(d)",
+								"__text": "If the person cited is under 18 years of age, and if any of the charges allege a violation of \n, the court shall promptly mail a copy of the citation or a notice of the citation to the address as shown on the citation, to the attention of the parent or guardian of the defendant."
+							}
+						],
+						"_number": "77-7-21(1)"
+					},
+					{
+						"_number": "77-7-21(2)",
+						"__text": "An information shall be filed and proceedings held in accordance with the Rules of Criminal Procedure and all other applicable provisions of this code if the person cited  pleads not guilty to the offense charged."
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-21(3)(a)",
+								"__text": "The information is an original pleading."
+							},
+							{
+								"_number": "77-7-21(3)(b)",
+								"__text": "If a person cited waives by written agreement the filing of the information, the prosecution may proceed on the citation."
+							}
+						],
+						"_number": "77-7-21(3)"
+					}
+				],
+				"_number": "77-7-21"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2018GS",
+							"__text": "140"
+						},
+						"__text": "Amended by Chapter \n, 2018 General Session"
+					},
+					"modyear": "2018"
+				},
+				"catchline": "Delivery of prisoner arrested without warrant to magistrate -- Transfer to court with jurisdiction -- Transfer of duties -- Violation as misdemeanor.",
+				"subsection": [
+					{
+						"subsection": [
+							{
+								"xref": {
+									"_depth": "4",
+									"_refnumber": "77-7-23(2)",
+									"_start": "0",
+									"__text": "(2)"
+								},
+								"_number": "77-7-23(1)(a)",
+								"__text": "When an arrest is made without a warrant by a peace officer or private person, the person arrested shall be taken without unnecessary delay to the magistrate in the district court, the precinct of the county, or the municipality in which the offense occurred, except under Subsection \n.  An information stating the charge against the person shall be made before the magistrate."
+							},
+							{
+								"xref": {
+									"_depth": "4",
+									"_refnumber": "77-7-23(2)",
+									"_start": "0",
+									"__text": "(2)"
+								},
+								"_number": "77-7-23(1)(b)",
+								"__text": "If the justice court judge of the precinct or municipality or the district court judge is not available, the arrested person shall be taken before the magistrate within the same county who is nearest to the scene of the alleged offense or nearest to the jail under Subsection \n, who may act as committing magistrate for arraigning the accused, setting bail, or issuing warrants."
+							}
+						],
+						"_number": "77-7-23(1)"
+					},
+					{
+						"subsection": [
+							{
+								"xref": [
+									{
+										"_depth": "4",
+										"_refnumber": "77-7-23(1)",
+										"_start": "0",
+										"__text": "(1)"
+									},
+									{
+										"_depth": "4",
+										"_refnumber": "77-7-23(1)",
+										"_start": "0",
+										"__text": "(1)"
+									}
+								],
+								"_number": "77-7-23(2)(a)",
+								"__text": "If the arrested person under Subsection \n must be transported from jail to a magistrate, the person may be taken before the magistrate nearest to the jail rather than the magistrate specified in Subsection \n for arraignment, setting bail, or issuing warrants."
+							},
+							{
+								"_number": "77-7-23(2)(b)",
+								"__text": "The case shall then be transferred to the court having jurisdiction."
+							}
+						],
+						"_number": "77-7-23(2)"
+					},
+					{
+						"xref": {
+							"_depth": "4",
+							"_refnumber": "77-7-23(1)",
+							"_start": "0",
+							"__text": "(1)"
+						},
+						"_number": "77-7-23(3)",
+						"__text": "If a jail accepts custody of a person arrested under Subsection \n, the duties under this section of the peace officer or private person who makes the arrest are transferred to the jail and the jail's personnel."
+					},
+					{
+						"_number": "77-7-23(4)",
+						"__text": "This section does not confer jurisdiction upon a court unless otherwise provided by law."
+					},
+					{
+						"_number": "77-7-23(5)",
+						"__text": "Any officer or person violating this section is guilty of a class B misdemeanor."
+					}
+				],
+				"_number": "77-7-23"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2005GS",
+							"__text": "2"
+						},
+						"__text": "Renumbered and Amended by Chapter \n, 2005 General Session"
+					},
+					"modyear": "2005"
+				},
+				"catchline": "Notice to appear in court -- Contents -- Promise to comply -- Signing -- Release from custody -- Official misconduct.",
+				"subsection": [
+					{
+						"xref": [
+							{
+								"_depth": "1",
+								"_refid": "C41-6a_1800010118000101",
+								"_refnumber": "41-6a",
+								"_start": "0",
+								"__text": "Title 41, Chapter 6a, Traffic Code"
+							},
+							{
+								"_depth": "3",
+								"_refid": "C77-7-S23_1800010118000101",
+								"_refnumber": "77-7-23",
+								"_start": "0",
+								"__text": "77-7-23"
+							}
+						],
+						"subsection": [
+							{
+								"_number": "77-7-24(1)(a)",
+								"__text": "the name and address of the person;"
+							},
+							{
+								"_number": "77-7-24(1)(b)",
+								"__text": "the number, if any, of the person's driver license;"
+							},
+							{
+								"_number": "77-7-24(1)(c)",
+								"__text": "the license plate number of the person's vehicle;"
+							},
+							{
+								"_number": "77-7-24(1)(d)",
+								"__text": "the offense charged; and"
+							},
+							{
+								"_number": "77-7-24(1)(e)",
+								"__text": "the time and place the person shall appear in court."
+							}
+						],
+						"_number": "77-7-24(1)",
+						"__text": "If a person  who is arrested for a  violation of \n, that is punishable as a misdemeanor is immediately taken before a magistrate as provided under Section \n, the peace officer shall prepare, in triplicate or more copies, a written notice to appear in court containing:"
+					},
+					{
+						"_number": "77-7-24(2)",
+						"__text": "The time specified in the notice to appear must be at least five days after the arrest of the person unless the person demands an earlier hearing."
+					},
+					{
+						"_number": "77-7-24(3)",
+						"__text": "The place specified in the notice to appear shall be made before a magistrate of competent jurisdiction in the county in which the alleged violation occurred."
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-24(4)(a)",
+								"__text": "In order to secure release as provided in this section, the arrested person shall promise to appear in court by signing at least one copy of the written notice prepared by the arresting officer."
+							},
+							{
+								"subsection": [
+									{
+										"_number": "77-7-24(4)(b)(i)",
+										"__text": "deliver a copy of the notice to the person promising to appear; and"
+									},
+									{
+										"_number": "77-7-24(4)(b)(ii)",
+										"__text": "release the person arrested from custody."
+									}
+								],
+								"_number": "77-7-24(4)(b)",
+								"__text": "The arresting peace officer shall immediately:"
+							}
+						],
+						"_number": "77-7-24(4)"
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-24(5)(a)",
+								"__text": "guilty of misconduct in office; and"
+							},
+							{
+								"_number": "77-7-24(5)(b)",
+								"__text": "subject to removal from office."
+							}
+						],
+						"_number": "77-7-24(5)",
+						"__text": "A peace officer violating any of the provisions of this section shall be:"
+					}
+				],
+				"_number": "77-7-24"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2016GS",
+							"__text": "33"
+						},
+						"__text": "Amended by Chapter \n, 2016 General Session"
+					},
+					"modyear": "2016"
+				},
+				"catchline": "Keeping of records -- Making and forwarding of abstract upon conviction or forfeiture of bail -- Form and contents  -- Official misconduct.",
+				"subsection": [
+					{
+						"subsection": [
+							{
+								"_number": "77-7-25(1)(a)",
+								"__text": "a violation of this chapter; or"
+							},
+							{
+								"_number": "77-7-25(1)(b)",
+								"__text": "any other law regulating the operation of a motor vehicle on the highway."
+							}
+						],
+						"_number": "77-7-25(1)",
+						"__text": "A magistrate or judge of a court shall keep a full record of each case in which a person is charged with:"
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-25(2)(a)",
+								"__text": "Within five days after the conviction or forfeiture of bail of a person on a charge of violating a provision of this chapter or other law regulating the operation of a motor vehicle on the highway, the magistrate of the court or clerk of the court in which the conviction was made or bail was forfeited shall prepare and immediately forward to the department an abstract of the record of the court covering the case in which the person was convicted or forfeited bail."
+							},
+							{
+								"_number": "77-7-25(2)(b)",
+								"__text": "The abstract shall be certified by the person required to prepare the abstract to be true and correct."
+							},
+							{
+								"xref": {
+									"_depth": "4",
+									"_refnumber": "77-7-25(2)",
+									"_start": "0",
+									"__text": "(2)"
+								},
+								"_number": "77-7-25(2)(c)",
+								"__text": "A report under this Subsection \n is not required for a conviction involving the illegal parking or standing of a vehicle."
+							}
+						],
+						"_number": "77-7-25(2)"
+					},
+					{
+						"subsection": [
+							{
+								"_number": "77-7-25(3)(a)",
+								"__text": "name and address of the party charged;"
+							},
+							{
+								"_number": "77-7-25(3)(b)",
+								"__text": "number, if any, of the person's driver license;"
+							},
+							{
+								"_number": "77-7-25(3)(c)",
+								"__text": "license plate number of the vehicle involved;"
+							},
+							{
+								"_number": "77-7-25(3)(d)",
+								"__text": "nature of the offense;"
+							},
+							{
+								"_number": "77-7-25(3)(e)",
+								"__text": "date of hearing;"
+							},
+							{
+								"_number": "77-7-25(3)(f)",
+								"__text": "plea;"
+							},
+							{
+								"_number": "77-7-25(3)(g)",
+								"__text": "judgment, or whether bail was forfeited; and"
+							},
+							{
+								"_number": "77-7-25(3)(h)",
+								"__text": "amount of the fine or forfeiture."
+							}
+						],
+						"_number": "77-7-25(3)",
+						"__text": "The abstract must be made in a manner specified by the Driver License Division and shall include the:"
+					},
+					{
+						"_number": "77-7-25(4)",
+						"__text": "A court shall provide a copy of the report to the Driver License Division on the conviction of a person of manslaughter or other felony in which a vehicle was used."
+					},
+					{
+						"_number": "77-7-25(5)",
+						"__text": "The failure, refusal, or neglect of a judicial officer to comply with the requirements of this section constitutes misconduct in office and is grounds for removal."
+					},
+					{
+						"xref": {
+							"_depth": "3",
+							"_refnumber": "53-3-109",
+							"_start": "0",
+							"__text": "53-3-109"
+						},
+						"_number": "77-7-25(6)",
+						"__text": "The Driver License Division shall classify and disclose all abstracts received in accordance with Section \n."
+					}
+				],
+				"_number": "77-7-25"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2005GS",
+							"__text": "2"
+						},
+						"__text": "Renumbered and Amended by Chapter \n, 2005 General Session"
+					},
+					"modyear": "2005"
+				},
+				"catchline": "Improper disposition or cancellation of notice to appear or traffic citation -- Official misconduct -- Misdemeanor.",
+				"subsection": [
+					{
+						"subsection": [
+							{
+								"subsection": [
+									{
+										"_number": "77-7-26(1)(a)(i)",
+										"__text": "a notice to appear; or"
+									},
+									{
+										"_number": "77-7-26(1)(a)(ii)",
+										"__text": "traffic citation."
+									}
+								],
+								"_number": "77-7-26(1)(a)",
+								"__text": "It is unlawful and official misconduct for any peace officer or other officer or public employee to dispose of:"
+							},
+							{
+								"xref": {
+									"_depth": "4",
+									"_refid": "C77-7-S26_1800010118000101",
+									"_refnumber": "77-7-26(1)(a)",
+									"_start": "0",
+									"__text": "(1)(a)"
+								},
+								"_number": "77-7-26(1)(b)",
+								"__text": "The provisions of Subsection \n do not apply if the disposal is done with the consent of the magistrate before whom the arrested person was to appear."
+							}
+						],
+						"_number": "77-7-26(1)"
+					},
+					{
+						"_number": "77-7-26(2)",
+						"__text": "A person who cancels or solicits the cancellation of a notice to appear or a traffic citation, in any manner other than as provided by law, is guilty of a class B misdemeanor."
+					}
+				],
+				"_number": "77-7-26"
+			},
+			{
+				"histories": {
+					"history": {
+						"modchap": {
+							"_sess": "2018GS",
+							"__text": "289"
+						},
+						"__text": "Enacted by Chapter \n, 2018 General Session"
+					},
+					"modyear": "2018"
+				},
+				"catchline": "Quotas for arrest, citation prohibited.",
+				"subsection": [
+					{
+						"subsection": [
+							{
+								"_number": "77-7-27(1)(a)",
+								"__text": "\"Law enforcement agency\" means an entity of the state, or a political subdivision of the state, that exists primarily to prevent and detect crime and enforce criminal laws, statutes, or ordinances."
+							},
+							{
+								"_number": "77-7-27(1)(b)",
+								"__text": "\"Law enforcement quota\" means any requirement or minimum standard regarding the number or percentage of citations or arrests made by a law enforcement officer."
+							}
+						],
+						"_number": "77-7-27(1)",
+						"__text": "As used in this section:"
+					},
+					{
+						"_number": "77-7-27(2)",
+						"__text": "A political subdivision or law enforcement agency employing a peace officer may not require or direct that a peace officer meet a law enforcement quota."
+					},
+					{
+						"xref": {
+							"_depth": "4",
+							"_refnumber": "77-7-27(2)",
+							"_start": "0",
+							"__text": "(2)"
+						},
+						"_number": "77-7-27(3)",
+						"__text": "Subsection \n does not prohibit a political subdivision or law enforcement agency from including a peace officer's engagement with the community or enforcement activity as part of an overall determination of the peace officer's performance."
+					}
+				],
+				"_number": "77-7-27"
+			}
+		],
+		"_number": "77-7"
+	}
+}
